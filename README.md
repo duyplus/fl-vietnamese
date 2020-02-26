@@ -1,19 +1,22 @@
 # Vietnamese Language Pack for Flarum
 
-## Information
-- Requires: Flarum v0.1.0 Beta 9 - Beta 11
-- Compatible up to: Flarum v0.1.0-beta.11
+## Thông tin
+- Yêu cầu: Flarum v0.1.0 Beta 9
+- Tương thích đến: Flarum v0.1.0 Beta 11
 - Packagist: https://packagist.org/packages/duyplus/fl-vietnamese
 
-## Installation
+## Cài đặt
 
-This language pack is bundled with [Flarum](http://flarum.org/).
+Gói ngôn ngữ này được sử dụng cùng với <b>[Flarum](http://flarum.org/)</b>.
 
-You only need to install is to type this command in flarum root directory:
+Gõ lệnh này để cài đặt:
 ```
 composer require duyplus/fl-vietnamese
 ```
-And delete:
+Và xoá:
 ```
 composer remove duyplus/fl-vietnamese
 ```
+## Updated by DuyPlus
+- Bạn có thể dùng <b>[Linguist](https://packagist.org/packages/fof/linguist)</b> để tuỳ chỉnh ngôn ngữ của bất cứ <b>tiện ích</b> nào được cài thêm.
+- Tiện ích URL thân thiện có tên <b>[Transliterator](https://packagist.org/packages/fof/transliterator)</b> giúp bạn không lo về URL của mình bị mất kí tự
