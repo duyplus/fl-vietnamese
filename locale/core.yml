@@ -12,24 +12,24 @@ core:
       developer_text: "Nếu bạn là nhà phát triển, bạn có thể <a>đọc tài liệu</a> và xây dựng các tiện ích mở rộng của riêng bạn."
       install_text: "Trong thời gian này, bạn có thể tìm kiếm các tiện ích mở rộng tại <a>Trang web cộng đồng Flarum</a> và cài đặt chúng theo cách thủ công bằng Trình soạn thảo."
       temporary_text: "Một ngày trong tương lai không xa, hộp thoại này sẽ cho phép bạn thêm tiện ích mở rộng vào diễn đàn của mình một cách dễ dàng. Chúng ta đang xây dựng một hệ sinh thái như chúng ta nói!"
-      title: Thêm tiện ích mở rộng
+      title: Thêm tiện ích
 
     # These translations are used in the Appearance page.
     appearance:
-      colored_header_label: Header màu
+      colored_header_label: Màu header
       colors_heading: Màu
       colors_text: "Chọn hai màu để tạo chủ đề cho diễn đàn của bạn. Màu đầu tiên sẽ được sử dụng làm màu nổi bật, trong khi màu thứ hai sẽ được sử dụng để tạo kiểu cho các thành phần nền."
       custom_footer_heading: Footer tùy chỉnh
       custom_footer_text: => core.ref.custom_footer_text
       custom_header_heading: Header tùy chỉnh
       custom_header_text: => core.ref.custom_header_text
-      custom_styles_heading: Phong cách tùy chỉnh
+      custom_styles_heading: CSS tùy chỉnh
       custom_styles_text: Tùy chỉnh giao diện diễn đàn của bạn bằng cách thêm mã LESS / CSS của riêng bạn để được áp dụng trên các kiểu mặc định của Flarum.
       dark_mode_label: Chế độ tối
-      edit_css_button: Chỉnh sửa CSS tùy chỉnh
+      edit_css_button: Chỉnh sửa CSS
       edit_footer_button: => core.ref.custom_footer_title
       edit_header_button: => core.ref.custom_header_title
-      enter_hex_message: Vui lòng nhập mã màu thập lục phân.
+      enter_hex_message: Vui lòng nhập mã màu hex.
       favicon_heading: Favicon
       favicon_text: Tải lên một hình ảnh để được hiển thị như là biểu tượng phím tắt của diễn đàn.
       logo_heading: Logo
@@ -46,21 +46,21 @@ core:
       home_page_heading: Trang chủ
       home_page_text: Chọn trang mà người dùng sẽ nhìn thấy đầu tiên khi họ truy cập diễn đàn của bạn.
       saved_message: Thay đổi của bạn đã được lưu.
-      show_language_selector_label: Hiển thị bộ chọn ngôn ngữ
+      show_language_selector_label: Hiển thị chọn ngôn ngữ
       submit_button: => core.ref.save_changes
-      welcome_banner_heading: Biểu ngữ chào mừng
-      welcome_banner_text: Định cấu hình văn bản hiển thị trong biểu ngữ trên trang Tất cả Thảo luận. Sử dụng điều này để chào đón khách đến diễn đàn của bạn.
+      welcome_banner_heading: Mẫu chào mừng
+      welcome_banner_text: Định cấu hình văn bản hiển thị trong biểu ngữ trên tất cả trang thảo luận. Sử dụng điều này để chào đón khách đến diễn đàn của bạn.
 
     # These translations are used in the Dashboard page.
     dashboard:
-      clear_cache_button: Xóa bộ nhớ cache
+      clear_cache_button: Xóa cache
       tools_button: Công cụ
 
     # These translations are used in the Edit Custom CSS modal dialog.
     edit_css:
       customize_text: "Tùy chỉnh giao diện diễn đàn của bạn bằng cách thêm mã LESS/CSS của riêng bạn để được áp dụng trên đầu trang của Flarum <a>kiểu mặc định</a>."
       submit_button: => core.ref.save_changes
-      title: Chỉnh sửa CSS tùy chỉnh
+      title: Chỉnh sửa CSS
 
     # These translations are used in the Edit Custom Footer modal dialog.
     edit_footer:
@@ -90,9 +90,9 @@ core:
     # These translations are used in the email page of the admin interface.
     email:
       addresses_heading: Địa chỉ
-      driver_heading: Chọn một trình điều khiển
-      driver_label: Driver
-      from_label: Sender
+      driver_heading: Chọn trình điều khiển
+      driver_label: Gửi bằng
+      from_label: Người gửi
       heading: => core.ref.email
       mail_encryption_label: Encryption
       mail_host_label: Host
@@ -114,7 +114,7 @@ core:
 
     # These translations are used in the Extensions page.
     extensions:
-      add_button: Thêm tiện ích mở rộng
+      add_button: Thêm tiện ích
       settings_button: => core.ref.settings
       uninstall_button: Gỡ cài đặt
 
@@ -128,7 +128,7 @@ core:
 
     # These translations are used in the navigation bar.
     nav:
-      appearance_button: Xuất hiện
+      appearance_button: Giao diện
       appearance_text: "Tùy chỉnh màu sắc, logo và các biến khác của diễn đàn của bạn."
       basics_button: Cơ bản
       basics_text: "Đặt tiêu đề diễn đàn, ngôn ngữ và các cài đặt cơ bản khác."
@@ -257,7 +257,7 @@ core:
 
     # Các bản dịch này được sử dụng trong danh sách thảo luận.
     discussion_list:
-      empty_text: Dường như không có cuộc thảo luận nào ở đây.
+      empty_text: Không có cuộc thảo luận nào ở đây.
       load_more_button: => core.ref.load_more
       mark_as_read_tooltip: Đánh dấu là đã đọc
       replied_text: "{username} trả lời {ago}"
@@ -320,7 +320,7 @@ core:
       forgot_password_link: "Quên mật khẩu?"
       invalid_login_message: Chi tiết đăng nhập của bạn không chính xác.
       password_placeholder: => core.ref.password
-      remember_me_label: Nhớ tôi
+      remember_me_label: Ghi nhớ!
       sign_up_text: "Không có tài khoản? <a>Đăng ký</a>"
       submit_button: => core.ref.log_in
       title: => core.ref.log_in
