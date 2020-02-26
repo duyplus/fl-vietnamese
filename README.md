@@ -1,9 +1,9 @@
 # Vietnamese Language Pack for Flarum
 
 ## Information
-- Requires: Flarum v0.1.0 Beta 11
+- Requires: Flarum v0.1.0 Beta 9 - Beta 11
 - Compatible up to: Flarum v0.1.0-beta.11
-
+- Packagist: https://packagist.org/packages/duyplus/fl-vietnamese
 
 ## Installation
 
