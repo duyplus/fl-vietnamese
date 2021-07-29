@@ -1,21 +1,21 @@
 flarum-auth-github:
 
   ##
-  # UNIQUE KEYS - Các phím sau chỉ được sử dụng ở một vị trí.
+  # UNIQUE KEYS - The following keys are used in only one location each.
   ##
 
-  # Các bản dịch trong không gian tên này được sử dụng bởi giao diện quản trị.
+  # Translations in this namespace are used by the admin interface.
   admin:
 
-    # Các bản dịch này được sử dụng trong hộp thoại phương thức Cài đặt GitHub.
+    # These translations are used in the GitHub Settings modal dialog.
     github_settings:
-      client_id_label: Client ID
-      client_secret_label: Client Secret
-      title: Cài đặt GitHub
+      client_id_label: ID khách hàng
+      client_secret_label: Bí mật khách hàng
+      title: Thiết lập GitHub
 
-  # Các bản dịch trong không gian tên này được sử dụng bởi giao diện người dùng diễn đàn.
+  # Translations in this namespace are used by the forum user interface.
   forum:
 
-    # Các bản dịch này được sử dụng trong hộp thoại đăng nhập phương thức.
+    # These translations are used in the Log In modal dialog.
     log_in:
       with_github_button: Đăng nhập bằng GitHub

@@ -1,21 +1,21 @@
 flarum-akismet:
 
   ##
-  # UNIQUE KEYS - Các phím sau chỉ được sử dụng ở một vị trí.
+  # UNIQUE KEYS - The following keys are used in only one location each.
   ##
 
-  # Các bản dịch trong không gian tên này được sử dụng bởi giao diện quản trị.
+  # Translations in this namespace are used by the admin interface.
   admin:
 
-    # Các bản dịch này được sử dụng trong hộp thoại phương thức Cài đặt Akismet.
+    # These translations are used in the Akismet Settings modal dialog.
     akismet_settings:
-      api_key_label: API Key
+      api_key_label: Khóa API
       title: Cài đặt Akismet
 
-  # Các bản dịch trong không gian tên này được sử dụng bởi giao diện người dùng diễn đàn.
+  # Translations in this namespace are used by the forum user interface.
   forum:
 
-    # Các bản dịch này được sử dụng bởi khung hiển thị xung quanh các bài viết được gắn cờ.
+    # These translations are used by the frame displayed around flagged posts.
     post:
       akismet_flagged_text: Akismet bị gắn cờ là spam
       not_spam_button: Không phải spam
