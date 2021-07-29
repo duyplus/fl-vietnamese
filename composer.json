@@ -28,7 +28,7 @@
       "category": "language",
       "info": {
         "website": "https://duyplus.org",
-        "support": ""
+        "support": "https://github.com/duyplus/fl-vietnamese"
       },
       "icon": {
         "image": "icon.svg",
@@ -42,7 +42,7 @@
       "title": "Vietnamese"
     },
     "extiverse": {
-      "discuss": ""
+      "discuss": "https://extiverse.com/extension/duyplus/fl-vietnamese"
     }
   }
 }
