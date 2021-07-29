@@ -20,6 +20,7 @@ composer update duyplus/fl-vietnamese
 php flarum cache:clear
 ```
 ### Hỗ trợ tiện ích
+
 <details>
   <summary>Flarum</summary>
   <ul>
@@ -95,7 +96,7 @@ php flarum cache:clear
     <li><a href="https://github.com/FriendsOfFlarum/oauth">FoF OAuth</a></li>
   </ul> 
 </details>
-
+    
 <details>
   <summary>ASkvortsov</summary>
   <ul>
@@ -110,7 +111,7 @@ php flarum cache:clear
     <li><a href="https://github.com/askvortsov1/flarum-categories">Flarum Categories</a></li>
   </ul>
 </details>
-
+    
 <details>
   <summary>ClarkWinkelmann</summary>
   <ul>
@@ -126,7 +127,7 @@ php flarum cache:clear
     <li><a href="https://github.com/clarkwinkelmann/flarum-ext-emojionearea">Emoji Picker</a></li>
   </ul>
 </details>
-
+    
 <details>
   <summary>JustOverClockl</summary>
   <ul>
@@ -140,7 +141,7 @@ php flarum cache:clear
     <li><a href="https://github.com/justoverclockl/flarum-ext-hashtag">Hashtag</a> (0.1.9)</li>
   </ul>
 </details>
-
+    
 <details>
   <summary>The-Turk</summary>
   <ul>
@@ -150,7 +151,7 @@ php flarum cache:clear
     <li><a href="https://github.com/the-turk/flarum-welcome-widgets">Welcome Widgets</a></li>
   </ul>
 </details>
-
+    
 <details>
   <summary>Others</summary>
   <ul>
@@ -189,7 +190,7 @@ php flarum cache:clear
     <li><a href="https://github.com/v17development/flarum-blog">Flarum Blog</a></li>
   </ul> 
 </details>
-
+    
 ### Links
 - [My Website](https://duyplus.org)
 - [Github](https://github.com/duyplus/fl-vietnamese)
