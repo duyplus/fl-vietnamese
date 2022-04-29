@@ -61,7 +61,7 @@ php flarum cache:clear
     <a href="https://github.com/v17development/flarum-blog">Flarum Blog</a>.
 </li>
     
-### Links
+### Liên kết (Links)
 - [Github](https://github.com/duyplus/fl-vietnamese)
 - [Packagist](https://packagist.org/packages/duyplus/fl-vietnamese)
 - [Extiverse](https://extiverse.com/extension/duyplus/fl-vietnamese)
