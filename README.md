@@ -7,7 +7,7 @@
 Gói ngôn ngữ tiếng Việt này được sử dụng cùng với <b>[Flarum](http://flarum.org/)</b>.
 
 ### Yêu cầu phiên bản (Required version)
-- Khả dụng với phiên bản 1.0.0 hoặc mới hơn (Compatible with 1.0.0 or newer)
+- Khả dụng với phiên bản 1.4.0 hoặc mới hơn (Compatible with 1.4.0 or newer)
 
 ### Cài đặt (Installation)
 Install with composer:
