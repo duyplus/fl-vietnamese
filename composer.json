@@ -1,5 +1,5 @@
 {
-    "name": "flarum-lang/vietnamese",
+    "name": "duyplus/fl-vietnamese",
     "description": "Vietnamese language pack for Flarum",
     "type": "flarum-extension",
     "keywords": [
@@ -12,22 +12,21 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ngo Quoc Dat (datlechin)",
-            "email": "datlechin@gmail.com",
+            "name": "Nguyen Hoang Duy (duyplus)",
+            "email": "duyplusdz@gmail.com",
             "role": "Translator",
-            "homepage": "https://ngoquocdat.com"
+            "homepage": "https://duyplus.my.id"
         }
     ],
     "support": {
-        "issues": "https://github.com/flarum-lang/vietnamese/issues",
-        "source": "https://github.com/flarum-lang/vietnamese",
-        "forum": "https://discuss.flarum.org/d/28471"
+        "issues": "https://github.com/duyplus/fl-vietnamese/issues",
+        "source": "https://github.com/duyplus/fl-vietnamese"
     },
-    "homepage": "https://ngoquocdat.com",
+    "homepage": "https://duyplus.my.id",
     "funding": [
         {
             "type": "website",
-            "url": "https://nhantien.momo.vn/0372124043"
+            "url": "https://nhantien.momo.vn/0919993715"
         }
     ],
     "require": {
@@ -52,7 +51,7 @@
             "title": "Tiếng Việt"
         },
         "extiverse": {
-            "discuss": "https://discuss.flarum.org/d/28471"
+            "discuss": ""
         },
         "flarum-cli": {
             "modules": {
