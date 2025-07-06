@@ -1,3 +1,5 @@
+## Repo không còn được cập nhật nữa, truy cập [flarum-lang/vietnamese](https://github.com/flarum-lang/vietnamese) để tiếp tục sử dụng
+
 # Vietnamese Language Pack for Flarum
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Latest Stable Version](http://poser.pugx.org/duyplus/fl-vietnamese/v) ![](https://img.shields.io/packagist/dt/duyplus/fl-vietnamese.svg)
